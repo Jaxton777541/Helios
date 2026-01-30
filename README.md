@@ -1,6 +1,13 @@
-pwease checkout NautilusOS :3 it has Helios built in if u really wanna use it but it also has 2 other proxies n some other junk 
+pwease checkout NautilusOS :3 it has Helios built in if u really wanna use it but it also has 2 other proxies n games and some other cool things
 https://github.com/nautilus-os/NautilusOS
 thx i love u
+
+
+## ***`stolen Helios links :(`*** 
+
+ya hate to see it. to whoever owns these please give credit, im a solo dev and it sucks to see my work stolen and passed off 
+- https://sounder-browser-try-2-17731297.codehs.me/
+
 
 ## ***`Background`***
 
